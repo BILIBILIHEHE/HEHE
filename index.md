@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>儿诗一首QAQ</title>
+    <title>web萌新QAQ</title>
 </head>
 <body>
 <img src="旗开得胜.jpg"/>    
